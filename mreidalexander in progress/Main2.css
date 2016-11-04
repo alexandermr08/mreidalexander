@@ -1,0 +1,115 @@
+
+body{
+margin:0px;
+padding:0px;
+color:white;
+background-image:url("topimage.jpg");
+background-repeat:no-repeat;
+background-position-x:center;
+}
+
+.wrapper{
+width:100%;
+max-width:1900px;
+min-width:875px;
+margin-left:auto;
+margin-right:auto;
+}
+
+.main{
+margin:0 auto;
+height:720px;
+}
+
+.nav{
+text-align:right;
+}
+.nav li{
+display:inline;
+padding-right:15px;
+padding-top:5px;
+font-size:25px;
+font-family: 'Muli', sans-serif;
+letter-spacing:3px;
+text-transform:uppercase;
+}
+.nav a{
+color:white;
+}
+.nav a:link{
+text-decoration:none;
+}
+.nav a:visited{
+text-decoration:none;
+}
+#profileimg{
+border:10px solid white;
+border-radius:50%;
+height:225px;
+width:225px;
+margin-top:75px;
+margin-bottom:30px;
+}
+
+#stylebarleft{
+width:100%;
+font-family: 'Muli', sans-serif;
+font-size:35px;
+text-align:center;
+
+}
+
+#stylebarleft p{
+margin:0;
+}
+#scrollscript{
+font-size:20px;
+}
+
+.panel1{
+text-align:center;
+color:grey;
+font-family: 'Muli', sans-serif;
+margin-top:0px;
+margin-bottom:0px;
+padding:80px;
+}
+.panel1 h1 {
+text-align:left;
+margin-left:200px}
+.panel1 p{
+align-content:center; 
+text-indent:50px;
+font-size:20px;
+text-align:left;
+}
+.footer{
+background-color:black;
+color:grey;
+text-align:center;
+margin-bottom:0px;
+height:75px;
+}
+.footer .container{
+width: 100%;
+height: 100%;
+display: table;
+text-align: center;
+}
+
+.footer .container p{
+display: table-cell;
+vertical-align: middle;
+font-size:12px;
+}
+
+ table{
+ float: right;
+ padding-top:6px;
+ padding-right:13px;
+ border-spacing:15px 0px;
+ }
+ #menu{
+ width:100%;
+ height:48px;
+ }

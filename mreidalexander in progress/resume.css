@@ -1,0 +1,102 @@
+body{
+background-color:#66ff33;
+}
+
+#nameandcontact p{
+border: 1px solid black;
+font-family:Letter Gothic std;
+}
+
+#nameandcontact > p{
+font-size:30px;
+margin:-5px;
+}
+ 
+.resheader{
+margin-left:-10px;
+margin-right:-10px;
+text-align:center;
+font-family:gulim;
+font-size:45px;
+color:white;
+background-color:black;
+height:90px;
+}
+#skillsdiv{
+margin-top:auto;
+margin-right:auto;
+margin-left:auto;
+margin-bottom:20px;
+padding:15px;
+}
+
+#skillsdiv table{
+margin-left:125px;
+margin-right:125px;
+color:white;
+
+}
+
+#skillsdiv table ul{
+list-style-type:none;
+margin-left:-25px;
+}
+
+#skillsdiv table td ul li{
+font-size:26px;
+}
+
+#workhist{
+margin-top:15px;
+margin-right:auto;
+margin-left:auto;
+margin-bottom:20px;
+padding:5px;
+}
+
+#education{
+border:2px solid black;
+margin-top:15px;
+margin-right:auto;
+margin-left:auto;
+margin-bottom:20px;
+padding:25px;
+}
+
+.jobbox{
+margin:15px;
+background-color:white;
+border-radius:7px;
+padding:20px;
+font-family:andalus;
+}
+.header{
+font-family:gulim;
+font-size:35px;
+color:black;
+border-bottom-style:solid;
+border-bottom-color:orange;
+border-bottom-width:1px;
+}
+
+.workheader{
+font-family:gulim;
+font-size:35px;
+color:white;
+width:75%;
+}
+
+.workheader td{
+font-size: 25px;
+font-family:andalus;
+border:1px solid black;
+font-weight:bold;
+}
+
+.workdate{
+border:2px solid white;
+height:35px;
+width:20%;
+text-align:right;
+float:right;
+}
